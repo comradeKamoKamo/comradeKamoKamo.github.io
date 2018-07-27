@@ -7,5 +7,8 @@
 ## Blogs
 - [https://kamo.hatenablog.jp/](https://kamo.hatenablog.jp/) かもブログ
   
+## Qiita
+- [@comradeKamoKamo](https://qiita.com/comradeKamoKamo) Qiita
+  
 ## GitHub
 - [comradeKamoKamo](https://github.com/comradeKamoKamo/) KamoKamo
