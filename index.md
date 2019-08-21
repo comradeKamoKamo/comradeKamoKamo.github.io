@@ -11,4 +11,5 @@
 - [@comradeKamoKamo](https://qiita.com/comradeKamoKamo) Qiita
   
 ## GitHub
-- [comradeKamoKamo](https://github.com/comradeKamoKamo/) KamoKamo
+- **GitHub** [comradeKamoKamo](https://github.com/comradeKamoKamo/) KamoKamo
+- **Gist** [https://gist.github.com/comradeKamoKamo](https://gist.github.com/comradeKamoKamo)
