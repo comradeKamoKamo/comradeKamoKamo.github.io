@@ -7,7 +7,7 @@
 ## Blogs
 - [https://kamo.hatenablog.jp/](https://kamo.hatenablog.jp/) かもブログ
   
- ## GitHub
+## GitHub
 - **GitHub** [comradeKamoKamo](https://github.com/comradeKamoKamo/) KamoKamo
 - **Gist** [https://gist.github.com/comradeKamoKamo](https://gist.github.com/comradeKamoKamo)
 
