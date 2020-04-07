@@ -22,4 +22,4 @@
 
     
 
-<a href="https://www.battleforthenet.com/"><img src="https://www.battleforthenet.com/media/banners/300x200%20PURPLE.png" alt="Fight for net neutrality" width=20% /></a>
+<a href="https://www.battleforthenet.com/"><img src="https://www.battleforthenet.com/media/banners/300x200%20PURPLE.png" width="200px" alt="Fight for net neutrality"/></a>
