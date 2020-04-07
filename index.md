@@ -19,5 +19,7 @@
 ## I agree to
 
 <a href="https://www.eff.org/pages/blue-ribbon-campaign"><img src="https://www.eff.org/files/brstrip.gif" alt="Join the Blue Ribbon Online Free Speech Campaign" /></a>
-<br><br>
+
+    
+
 <a href="https://www.battleforthenet.com/"><img src="https://www.battleforthenet.com/media/banners/300x200%20PURPLE.png" alt="Fight for net neutrality" width=20% /></a>
