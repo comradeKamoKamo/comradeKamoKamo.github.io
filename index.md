@@ -8,6 +8,7 @@
 | **Blog** | [`https://kamo.hatenablog.jp/`](https://kamo.hatenablog.jp/) かもブログ |
 | marshmallow | [かもかも(`@two_headed_duck`)](https://marshmallow-qa.com/two_headed_duck?utm_medium=url_text&utm_source=promotion) |
 | **GitHub** | [`comradeKamoKamo`](https://github.com/comradeKamoKamo/) KamoKamo |
+| **E-mail** | [`kamo@kuneku.net`](mailto:kamo@kuneku.net)
 | Instagram | [`kamo_kisarazu`](https://www.instagram.com/kamo_kisarazu/) Kamo|
 | Gist | [`https://gist.github.com/comradeKamoKamo`](https://gist.github.com/comradeKamoKamo) |
 | じゃんたま | ```ID:92399236``` |
